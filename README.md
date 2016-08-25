@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+I am John Daniel; An enthusiastic programmer from Illinois.
+This edit was to provide info about myself as part of a tutorial.
